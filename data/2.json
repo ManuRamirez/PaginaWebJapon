@@ -1,0 +1,20 @@
+[{
+"titulo": "Gobierno de Japón deberá pagar 400.000 yenes a preso por encerrarlo en una celda con cámara",
+"descripcion": "Un hombre de 35 años que estuvo confinado durante varios meses en solitario en una celda equipada con una cámara de vigilancia recibirá una compensación de 400.000 yenes (3.654 dólares) por daños y perjuicios por parte del gobierno de Japón, informó la agencia Kyodo",
+"fecha":"26/05/2019",
+"img": "images/celda.jpg"
+},
+
+{
+"titulo": "Arrestan a estudiantes por poner un kotatsu en la calle, comer y obstaculizar el tráfico.",
+"descripcion": "¿A quién se le ocurre colocar un kotatsu (mesa con calefactor) en una pista, en una concurrida intersección de Kioto, y ponerse a comer? A un grupo de jóvenes, entre ellos dos estudiantes graduados de la Universidad de Kioto que fueron arrestados.",
+"fecha":"26/05/2019",
+"img": "images/estudiantes.jpg"
+},
+
+{
+"titulo": "Japón enviará a ninis (ni estudian ni trabajan) a zonas rurales, donde faltan trabajadores",
+"descripcion": "Por un lado, personas que no estudian ni trabajan. Por el otro, escasez de mano de obra. Dos carencias que Japón aspira a cubrir enviando a ninis que viven en las ciudades a las zonas rurales donde escasean los brazos en agricultura, silvicultura y pesca.",
+"fecha":"26/05/2019",
+"img": "images/ninis.jpg"
+}]

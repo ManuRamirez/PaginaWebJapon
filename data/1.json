@@ -1,0 +1,20 @@
+[{
+"titulo": "Récord en Japón tras subastarse dos melones en 29.000 dólares",
+"descripcion": "Dos melones Yubari, una fruta muy apreciada en Japón, se vendieron por la suma récord de 3,2 millones de yenes (25.000 euros, 29.000 dólares) este sábado durante una subasta en Sapporo, en la isla de Hokkaido",
+"fecha":"26/05/2019",
+"img": "images/melon.jpg"
+},
+
+{
+"titulo": "Arrestan a yakuza que encerró y golpeó a un conocido por no contestar sus llamadas.",
+"descripcion": "En febrero, Tomokazu Kuramochi, un hombre de 52 años que pertenece al grupo yakuza Sumiyoshi-kai, golpeó a otro hombre en la cabeza y el pecho en el estacionamiento de una tienda de conveniencia en la prefectura de Tochigi..Luego, lo mantuvo encerrado durante unas tres horas dentro de un coche, donde continuó pegándole",
+"fecha":"26/05/2019",
+"img": "images/yakuza.jpg"
+},
+
+{
+"titulo": "Arrestan a hombre por amenazar de muerte a una cantante japonesa",
+"descripcion": "Desde diciembre de 2015 hasta mayo, un hombre amenazó de muerte a la cantante Mai Shiraishi a través de Twitter. Lo hizo al menos seis veces..",
+"fecha":"26/05/2019",
+"img": "images/idol.jpg"
+}]
