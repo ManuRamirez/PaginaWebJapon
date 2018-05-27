@@ -1,0 +1,41 @@
+.carousel-inner{
+    height: 85vh;
+}
+
+#noticias {
+  margin-right:336px;
+  background-color:yellowgreen
+}
+
+#noticias {
+  margin-top: 10px;
+  margin-right: 50px;
+float: left;
+}
+
+#noticias2 {
+margin-right: 50px;
+float: left;
+}
+
+#publicidad{
+ margin-right: 50px;
+float: left;
+}
+
+#fondo {
+    background-color: grey;
+}
+
+.publimovil{
+  display:none;
+  }
+  .publimovil2{
+    display:none;
+    }
+
+  #fecha1,#fecha2,#fecha3,#fecha4,#fecha5,#fecha5,#fecha6,#fecha7,#fecha8,#fecha9{
+    margin-top: 10px;
+    margin-bottom:5px;
+
+}

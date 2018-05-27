@@ -1,0 +1,24 @@
+.carousel-inner{
+    height: 30vh;
+}
+
+.publidesktop{
+    display:none;
+    }
+
+    #fecha1,#fecha2,#fecha3,#fecha4,#fecha5,#fecha5,#fecha6,#fecha7,#fecha8,#fecha9{
+        margin-top: 10px;
+        margin-bottom:10px;
+    
+    }
+
+    img {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 280px;
+    }
+    .publimovil2{
+        display:inline-block;
+        padding-bottom:50px;
+        }
