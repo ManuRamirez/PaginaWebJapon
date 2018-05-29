@@ -4,7 +4,7 @@ v 1.1 se ha creado el esquema en el cuaderno para planificar lo que se va a hace
 
 v 1.11 se ha creado la pagina inicial index.html
 
-v 1.12 se han creado las 3 noticias en la pagina principal
+v 1.12 se han creado las 3 noticias en la pagina principal.
 
 v 1.13 se han creado la pagina news1.html y news2.html
 
