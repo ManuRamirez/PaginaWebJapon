@@ -1,5 +1,7 @@
 # PaginaWebJapon
 
+![My image](https://github.com/ManuRamirez/PaginaWebJapon/blob/master/images/BocetoPc.jpg)
+
 
 v 1.1 se ha creado el esquema en el cuaderno para planificar lo que se va a hacer
 
