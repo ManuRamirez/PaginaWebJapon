@@ -1,5 +1,6 @@
 # PaginaWebJapon
 
+
 v 1.1 se ha creado el esquema en el cuaderno para planificar lo que se va a hacer
 
 v 1.11 se ha creado la pagina inicial index.html
