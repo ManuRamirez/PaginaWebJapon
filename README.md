@@ -1,5 +1,20 @@
 # PaginaWebJapon
 
+## ARREGLOS POSTERIORES A LA CORRECION HECHA EN CLASE
+- Implementado el boton de habilitar/deshabilitar scroll en la pagina principal  
+- Cambiado la paleta de colores para no dañar tanto la vista  
+
+
+
+
+
+
+==========================================
+
+
+
+
+
 V 1.0 Se ha comenzado la planificación
 
 v 1.1 se ha creado el esquema en el cuaderno para planificar lo que se va a hacer
