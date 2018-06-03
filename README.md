@@ -4,6 +4,8 @@
 - Implementado el botón de habilitar/deshabilitar scroll en la pagina principal  
 - Cambiado la paleta de colores para no dañar tanto la vista  
 
+Enlace con rawgit --> https://rawgit.com/ManuRamirez/PaginaWebJapon/master/index.html
+
 
 
 
