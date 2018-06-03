@@ -1,7 +1,7 @@
 # PaginaWebJapon
 
-## ARREGLOS POSTERIORES A LA CORRECION HECHA EN CLASE
-- Implementado el boton de habilitar/deshabilitar scroll en la pagina principal  
+## ARREGLOS POSTERIORES A LA CORRECCIÓN HECHA EN CLASE
+- Implementado el botón de habilitar/deshabilitar scroll en la pagina principal  
 - Cambiado la paleta de colores para no dañar tanto la vista  
 
 
