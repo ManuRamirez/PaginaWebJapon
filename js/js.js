@@ -1,22 +1,55 @@
 var x = 0;
 var datos1 = null;
 var datos2 = null;
+var scrollactivado = true;
+
+
+// boton scroll
+
+
+    $("#botonscroll").click(function () {
+        if (scrollactivado) {
+            scrollactivado = false;
+            $("#botonscroll").html("Activar el boton scroll");
+        } else {
+            scrollactivado = true;
+            $("#botonscroll").html("Desactivar el boton scroll");
+        }
+    });
+
 
 
 
 $(function () {
-    //cargar noticias
+    //guardar json en variables
     $.getJSON("https://rawgit.com/ManuRamirez/PaginaWebJapon/master/data/1.json", function (json1) {
 		datos1 = json1;
 	});
     $.getJSON("https://rawgit.com/ManuRamirez/PaginaWebJapon/master/data/2.json", function (json2) {
 		datos2 = json2;
 	});
+    
+    
+    
+    
+    
+    // Funcion de scroll
+    
 	$(window).scroll(function(){
-		if($(window).scrollTop()+$(window).height()>$(document).height()-1){
+        if (scrollactivado) {
+		if($(window).scrollTop()+$(window).height()>$(document).height()-1) {
+            
+        
 			cargarNoticias();
 		}
-	});
+	}
+        });
+    
+    
+    
+    
+    //boton para cargar noticias
+    
     $('#boton').click(function () {
 		cargarNoticias();
 	});
