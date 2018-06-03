@@ -1,4 +1,4 @@
-# PaginaWebJapon
+# Pagina Web Sobre Las Noticias De Japón
 
 ## ARREGLOS POSTERIORES A LA CORRECCIÓN HECHA EN CLASE
 - Implementado el botón de habilitar/deshabilitar scroll en la pagina principal  
